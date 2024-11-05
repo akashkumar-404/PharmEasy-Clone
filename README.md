@@ -8,4 +8,4 @@ Akash Kumar Gupta,
 Chetan
 
 Pharmeasy is online shoping website which contains medicinal products whixh delivers you to your doorstep.
-Please take a look:-(deployed link)--->https://roaring-creponne-d99230.netlify.app/
+
